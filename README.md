@@ -4,3 +4,5 @@
 #### Project List :
      1. 
      2. Motion Detection Using Background Subtraction
+     3. ML Practice - Linear Regression.ipynb
+
