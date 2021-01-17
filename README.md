@@ -4,5 +4,6 @@
 #### Project List :
      1. Convert Image to Cartoon using OpenCV
      2. Motion Detection Using Background Subtraction
-     3. ML Practice - Linear Regression.ipynb
+     3. ML Practice - Linear Regression
+     4. ML Practice - Logistic Regression
 
