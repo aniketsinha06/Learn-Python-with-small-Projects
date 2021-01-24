@@ -5,5 +5,6 @@
      1. Convert Image to Cartoon using OpenCV
      2. Motion Detection Using Background Subtraction
      3. ML Practice - Linear Regression
-     4. ML Practice - Logistic Regression
+     4. 3. ML Practice - Linear Regression (Multivariate)
+     5. ML Practice - Logistic Regression
 
